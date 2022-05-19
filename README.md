@@ -6,6 +6,15 @@
 
 ### ✨ [Demo](https://profinance-iangelfand.vercel.app)
 
+## Plaid Login
+
+```sh
+username: user_good
+```
+```sh
+password: pass_good
+```
+
 
 ## Clone
 
