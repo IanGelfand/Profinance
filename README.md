@@ -4,7 +4,7 @@
 
 > Allow users to connect to their bank to view the data
 
-### ✨ [Demo](https://profinance-iangelfand.vercel.app)
+# ✨ [Demo](https://profinance-iangelfand.vercel.app)
 
 ## Plaid Login
 
